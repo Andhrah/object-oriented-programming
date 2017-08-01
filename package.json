@@ -1,0 +1,26 @@
+{
+  "name": "object-oriented-programming",
+  "version": "1.0.0",
+  "description": "Object Oriented Programming in Javascript",
+  "main": "oop.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Capp/oop.js\u001b[B\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Cmocha tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuthCollins/object-oriented-programming.git"
+  },
+  "author": "Ruth Nnochiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuthCollins/object-oriented-programming/issues"
+  },
+  "homepage": "https://github.com/RuthCollins/object-oriented-programming#readme",
+  "dependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.5.0"
+  }
+}
